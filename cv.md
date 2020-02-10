@@ -43,40 +43,13 @@
 
 #### Education:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dbc9f04d857501e254add21535540b2625187ea9
 *Bachelor of Science: Electric power supply, NSTU R.E. Alekseeva, Nizhny Novgorod*
-=======
-*Bachelor of Science: Electric power supply*
-
-*NSTU R.E. Alekseeva, Nizhny Novgorod*
-
-_RS School_
-
-_HTML Academy_ - https://htmlacademy.ru/profile/id839809
-
-_Codewars_ - https://www.codewars.com/users/developer9000
->>>>>>> 1021739... change markdown in education section
 
 ##### Online courses:
 - RS School
 - HTML Academy - https://htmlacademy.ru/profile/id839809
 - Codewars - https://www.codewars.com/users/developer9000
-<<<<<<< HEAD
-=======
-*Bachelor of Science: Electric power supply
-NSTU R.E. Alekseeva, Nizhny Novgorod*
 
-_RS School
-HTML Academy - https://htmlacademy.ru/profile/id839809
-Codewars - https://www.codewars.com/users/developer9000
-_
->>>>>>> 18edb2a... change markdown in education section
-=======
->>>>>>> dbc9f04d857501e254add21535540b2625187ea9
 
 
 #### English:
